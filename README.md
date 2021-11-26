@@ -1,3 +1,5 @@
+_**CHDMAN is the CHD manager for MAME, developed by https://www.mamedev.org/**_
+
 #### HOW TO USE
 1. Click the green 'Code' button and select 'Download ZIP'
 2. Extract the ZIP file
